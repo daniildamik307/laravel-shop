@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/css/app.css">
+</head>
+<body>
+    <header>
+        <h1>Шапка</h1>
+    </header>
+    <main>
+        <p>Контент</p>
+    </main>
+    <footer>
+        <p>&copy; Дамик Даниил, 2026</p>
+    </footer>
+</body>
+</html>
