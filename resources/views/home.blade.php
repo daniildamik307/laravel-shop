@@ -9,7 +9,8 @@
 </head>
 <body>
     <header>
-        <h1>Шапка</h1>
+        <h1>Главное меню</h1>
+        <img src="/public/img/logo.jpeg" alt="">
     </header>
     <main>
         <p>Контент</p>
